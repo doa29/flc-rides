@@ -8,3 +8,5 @@ folium
 streamlit-folium
 geopy
 openrouteservice
+gspread
+oauth2client
