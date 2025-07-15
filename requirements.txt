@@ -1,0 +1,10 @@
+pytube
+
+yt-dlp
+
+streamlit
+pandas
+folium
+streamlit-folium
+geopy
+openrouteservice
